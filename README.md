@@ -11,8 +11,8 @@ Ensure you have the following tools installed:
 
 1. **Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/seemadurrani/infra-logging-monitoring.git
+cd infra-logging-monitoring
 ```
 
 2. **Set Your Datadog API and APP Keys**
